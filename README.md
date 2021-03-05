@@ -40,5 +40,8 @@ If python interpeter and env variable
 is not set - charts will not be generated, 
 but ranking will be by php.
 
+![ranking.php](https://user-images.githubusercontent.com/65545676/110086078-369eb500-7d92-11eb-9c3d-9b2ca16688cd.png)
+
+
 To setup the database - import the 127_0_0_1.sql to your 
 host.
