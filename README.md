@@ -17,7 +17,7 @@ to generate charts
 
 ## Setup
 
-To setup python - head into the config file 
+To setup python - head into the config file located at dir config/config.ini
 and paste your full path to the interpreter
 
 ```ini
