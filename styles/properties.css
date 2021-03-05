@@ -1,0 +1,130 @@
+/* @import 'game.css'; */
+
+/* ALL REPONSIVE THINGS */
+
+@media (max-width: 1055px) {
+
+    .interface {
+        flex-direction: column;
+    }
+
+    .user-buttons {
+        padding: 0;
+    }
+
+    .difficulty-buttons {
+        margin-top: 5%;
+    }
+
+    .function-buttons {
+        margin-top: 5%;
+    }
+}
+
+@media (max-width: 1400px) {
+
+    .tile .versus {
+        font-size: 7em;
+    }
+
+    .tile .score {
+        font-size: 2em;
+    }
+
+    footer .logo .footer-logo {
+        font-size: 1.5em;
+    }
+
+    footer .copyright .C,
+    footer .author .author-span,
+    footer .author .author-start {
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 1300px) {
+
+    .tile .versus {
+        font-size: 5em;
+    }
+}
+
+@media (max-width: 1230px) {
+
+    .images-container img.image {
+        width: 250px;
+        height: 250px;
+
+        margin: 0 10px;
+
+        border-radius: 20px;
+    }
+}
+
+@media (max-width: 980px) {
+
+    .images-container img.image {
+        width: 100px;
+        height: 100px;
+
+        margin: 0 10px;
+        border-radius: 10px;
+    }
+
+    .tile .versus {
+        font-size: 2em;
+    }
+
+    .players {
+        font-size: 25px;
+    }
+
+    .game-status {
+        font-size: 20px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .ranking {
+        min-height: 200px;
+        min-width: 90%;
+        margin-top: 2%;
+    }
+}
+
+@media (max-width: 730px) {
+
+    .header {
+        font-size: 3em;
+    }
+
+    .players {
+        font-size: 20px;
+    }
+
+    .tile .score {
+        font-size: 1em;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    .reset-btn {
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    .images-container img.image {
+        width: 80px;
+        height: 80px;
+    }
+
+    .game-status {
+        font-size: 10px;
+    }
+
+}
