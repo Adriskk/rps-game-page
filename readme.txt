@@ -1,11 +1,6 @@
 == Rock Paper Scissors - RPS ==
 
-[+] Author: Adrian Iskra - 2P/I
-
-[-] Because of the big amount 
-[-] of files in this project
-[-] - there's no visualization of the project tree :(
-[-] But I'm gonna code a 'readme file generator' soon :D
+[+] Author: Adriskk
 
 [+] Description: Page has features like registering and logging, changing the difficulty 
 [+]		 of a AI, creating charts by user statistics and generating ranking
