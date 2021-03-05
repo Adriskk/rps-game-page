@@ -12,6 +12,9 @@ in the stats page.
 Page is using python and matplotlib module
 to generate charts
 
+![game.php](https://user-images.githubusercontent.com/65545676/110085530-80d36680-7d91-11eb-9d50-f86f3479dee9.png)
+
+
 ## Setup
 
 To setup python - head into the config file 
