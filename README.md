@@ -36,8 +36,9 @@ type in cmd:
 ```cmd
 where python
 ```
-If python interpeter and env variable is not set
-- charts will not be generated, but ranking will be by php.
+If python interpeter and env variable 
+is not set - charts will not be generated, 
+but ranking will be by php.
 
 To setup the database - import the 127_0_0_1.sql to your 
 host.
