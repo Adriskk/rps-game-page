@@ -1,6 +1,6 @@
 # Rock Paper Scissors
-**This is a simple game website to play rock paper scissors 
-with register, login, levels and charts **
+*This is a simple game website to play rock paper scissors 
+with register, login, levels and charts*
 
 ## Description
 
